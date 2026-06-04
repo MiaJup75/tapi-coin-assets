@@ -2,5 +2,64 @@
   "name": "TapiCoin",
   "symbol": "TAPI",
   "description": "TapiCoin is a live fixed-supply Solana meme token born from a real on-chain experiment. Minted at 100,000,000 TAPI, burned down to 88,000,000, with mint authority revoked and freeze authority not set. No presale, no VC allocation, no fake promises, just a tiny chaotic meme coin with real liquidity, real holders, real trades, and a mascot that looks far too happy for crypto. TAPI is experimental, community-driven, and created for fun, learning, and pure Solana meme energy. No investment promise, no guaranteed value, no ownership rights, and no revenue rights.",
-  "image": "https://raw.githubusercontent.com/MiaJup75/tapi-coin-assets/main/tapi-logo-1024.png"
+  "image": "https://raw.githubusercontent.com/MiaJup75/tapi-coin-assets/main/tapi-logo-1024.png",
+  "external_url": "https://x.com/TapiCoin",
+  "twitter": "https://x.com/TapiCoin",
+  "website": "https://dexscreener.com/solana/7ya9hyle6eftegfausd7puvvbrjpbw9a1fcqgx6ohnff",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MiaJup75/tapi-coin-assets/main/tapi-logo-1024.png",
+        "type": "image/png"
+      }
+    ],
+    "links": {
+      "twitter": "https://x.com/TapiCoin",
+      "dexscreener": "https://dexscreener.com/solana/7ya9hyle6eftegfausd7puvvbrjpbw9a1fcqgx6ohnff",
+      "github": "https://github.com/MiaJup75/tapi-coin-assets"
+    }
+  },
+  "attributes": [
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL Token"
+    },
+    {
+      "trait_type": "Mint Address",
+      "value": "F7UEq49Xcrr2jP71rDkgT6ez1c626S4RoGXTm7V3SeAf"
+    },
+    {
+      "trait_type": "Initial Supply",
+      "value": "100,000,000 TAPI"
+    },
+    {
+      "trait_type": "Burned Supply",
+      "value": "12,000,000 TAPI"
+    },
+    {
+      "trait_type": "Current Supply",
+      "value": "88,000,000 TAPI"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Not Set"
+    },
+    {
+      "trait_type": "Liquidity",
+      "value": "Live on Raydium"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Meme and learning experiment"
+    }
+  ]
 }
